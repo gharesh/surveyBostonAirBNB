@@ -13,6 +13,10 @@ As 99% of the listing price are below 500, so I drop the rows above 500 to get a
 GradientBoostingRegressor was used as classifier for this and a five-fold GridSearchCV was applied to find the best hyperparameter for the classifier.
 On the other hand, 1/5 of the preprocessed dataset was used as test data and the remaining 4/5 are used to train machine learning model.
 
+## File Description
+Listings_Boston_Project.ipynb is the python notebook holding the code
+
+Unable to upload the dataset but its been downloaded from https://www.kaggle.com/airbnb/boston
 ## Results of the analysis
 Results and discussion were published on https://datascience954723067.wordpress.com/2019/01/22/udacity-airbnb-data-investigation/ 
 
